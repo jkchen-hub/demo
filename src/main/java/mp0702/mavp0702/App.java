@@ -13,5 +13,6 @@ public class App
     	int a = ArithmeticUtils.gcd(361,285);
 		System.out.println(a);
     	System.out.println( "Hello World!" );
+		System.out.println( "First Maven Demo!" );
     }
 }
